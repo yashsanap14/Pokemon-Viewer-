@@ -1,4 +1,4 @@
-# AND101 Project 7 - CYOAPI Part 3: Beautified
+# Pokemon Viewer
 
 Submitted by: **Yash Sanap**
 
